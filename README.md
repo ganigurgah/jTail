@@ -3,7 +3,8 @@
 In Windows operating system, you can use jTail when you want to tail a text file as in Linux and cannot use Get-Content.
 
 # Download : 
-https://drive.google.com/file/d/1MW8PsOYfbZM5tnuntWJ4SIfYs1QW4p9Z/view?usp=sharing
+
+[download release](https://drive.google.com/file/d/1MW8PsOYfbZM5tnuntWJ4SIfYs1QW4p9Z/view?usp=sharing)
 
 # Source :
 * download code
